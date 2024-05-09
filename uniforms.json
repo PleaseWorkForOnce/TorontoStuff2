@@ -1,6 +1,6 @@
 {
    "Mano County Sheriffs Office":{
-      "GroupID":2864910,
+      "GroupID":3190351,
       "ClassA":{
          "Trainee":4586604614,
          "Sheriff Deputy":4586604614,
@@ -78,7 +78,7 @@
       }
    },
    "Clearcreek Metropolitan Police Department":{
-	   "GroupID":5109760,
+	   "GroupID":3190351,
             "ClassB":{
                   "Senior Officer":10346171090,
                   "Sergeant":10346217426,
@@ -171,7 +171,7 @@
             }
       },
    "Mano County Fire Department":{
-      "GroupID":2972137,
+      "GroupID":3190351,
       "Polo":{
          "Candidate":3049450264,
          "Probationary Firefighter":3049450264,
@@ -304,7 +304,7 @@
       }
    },
    "Mano County Rescue Squad":{
-      "GroupID":3383859,
+      "GroupID":3190351,
       "ClassA":{
          "Academy Student":3246595800,
          "Emergency Medical Technician":3416448656,
@@ -744,7 +744,7 @@
       }
    },
    "Pennsylvania State PoIice":{
-      "GroupID":3633308,
+      "GroupID":3190351,
       "ClassA":{
          "State Police Cadet":2209034292,
 	 "Probationary Trooper":2209034292,
